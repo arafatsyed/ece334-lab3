@@ -28,3 +28,14 @@ Rise time best: 2.29 ns
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/72bc48e8-d414-4cb7-b1bc-1a05c12fd3f9)
 
 Meassuring Rise/Fall worst time:
+
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/58035a8c-fc99-4d65-bb36-264897e3be4f)
+
+
+Fall time worst:1.71 ns
+B voltage (20 pulse 40 period)
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/ac4ef2f9-193e-49f4-95c8-21d477450e71)
+
+
+Rise Worst: 2.99ns
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/0e08e0b7-c7ec-4328-bb97-4a58791400dc)
