@@ -1,7 +1,8 @@
 # ece334-lab3
 
 L1
-
+Pulse width: 8ns
+Period: 16 ns
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/f718b485-6b11-47ff-8928-81d9bc773ebc)
 
 Fall Time: 2.53 ns
