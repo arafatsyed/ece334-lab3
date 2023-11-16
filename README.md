@@ -45,3 +45,15 @@ L3
 
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/896ea884-66e6-49c8-b92a-547359cfea27)
 
+High level of D-flipflop
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/bf3506a1-7951-43bc-b0f5-91f88263b9e6)
+
+Transmission
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/564a1917-0fb7-4bdf-b273-56c168285a11)
+
+Inverter:
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/07f40c31-831c-4af9-8208-913a5ad4c774)
+
+Nor:
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/4821b63e-f8db-4c4a-810b-4e9076d9b2b2)
+
