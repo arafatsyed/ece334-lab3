@@ -39,3 +39,9 @@ B voltage (20 pulse 40 period)
 
 Rise Worst: 2.99ns
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/0e08e0b7-c7ec-4328-bb97-4a58791400dc)
+
+
+L3
+
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/896ea884-66e6-49c8-b92a-547359cfea27)
+
