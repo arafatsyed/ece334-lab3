@@ -62,6 +62,8 @@ L4
 
 Violation occurs when delay time = 6 ns
 
+Therefore setup time is 6ns
+
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/af0b59dd-e167-4e1a-87e6-1f4808184f2c)
 
 
