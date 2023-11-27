@@ -67,4 +67,9 @@ Therefore setup time is 6ns
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/af0b59dd-e167-4e1a-87e6-1f4808184f2c)
 
 
+L5:
+
+Propogation delay of clock to q is 491 ps
+
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/2b79e9bf-5d18-4a07-815e-2f291bc299e1)
 
