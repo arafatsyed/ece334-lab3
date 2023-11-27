@@ -57,3 +57,12 @@ Inverter:
 Nor:
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/4821b63e-f8db-4c4a-810b-4e9076d9b2b2)
 
+
+L4
+
+Violation occurs when delay time = 6 ns
+
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/af0b59dd-e167-4e1a-87e6-1f4808184f2c)
+
+
+
