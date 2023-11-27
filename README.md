@@ -79,3 +79,4 @@ Propgation delay of the inverter chain is 429ps
 
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/236485bd-78f8-4893-98b9-ff735e74f58e)
 
+Circuit Broke when clock frequecy was 1 GHz
