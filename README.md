@@ -45,7 +45,10 @@ L3
 
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/1e2ff5af-6c5a-4b67-b62e-1ed3a623330b)
 
-High level of D-flipflop
+Top level with inputs:
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/4feeade8-2971-4228-aa43-3340e458f924)
+
+High level of D-flipflop:
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/bf3506a1-7951-43bc-b0f5-91f88263b9e6)
 
 Transmission
