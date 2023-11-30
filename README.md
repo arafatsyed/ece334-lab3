@@ -81,6 +81,9 @@ L6:
 Diagram:
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/3ab6f8f8-a649-44ac-9668-b4c0eef04a95)
 
+Output signal:
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/9f4763bd-7c1b-4f10-b151-798b197b43ba)
+
 
 Propgation delay of the inverter chain is 429ps
 
