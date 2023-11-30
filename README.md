@@ -78,6 +78,10 @@ Propogation delay of clock to q is 491 ps
 
 L6:
 
+Diagram:
+![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/3ab6f8f8-a649-44ac-9668-b4c0eef04a95)
+
+
 Propgation delay of the inverter chain is 429ps
 
 ![image](https://github.com/arafatsyed/ece334-lab3/assets/55632837/236485bd-78f8-4893-98b9-ff735e74f58e)
